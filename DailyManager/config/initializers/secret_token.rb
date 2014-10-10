@@ -1,0 +1,1 @@
+DailyManager::Application.config.secret_key_base='8a976b6bad71668579bb1203ee8ca8a728609b984ffd41585f6659ac9d79ba397b6e18f71f19b800e0b4d20e86c9ee279cb21a3e543cd7c25b1411391cf52c04'
